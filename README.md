@@ -1,9 +1,9 @@
-# RizkiMaulana
+# jixokiki
 
 <h1>👋 Welcome to my Profile!</h3>
 <img src="GITHUB/VenS.png" width="100%" height="500"/>
 
-# Hi, I'm Rizki Maulana
+# Hi, I'm jixokiki
 
 I love when I can realize my ideas. It's satisfying to see it work & help others. Nothing more to tell here ¯\_(ツ)_/¯
 
