@@ -25,20 +25,11 @@ My Many Obsessions:
 - Corel Draw, Photoshop, Premiere Pro, and other software design
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/iven-fesky-018426218/">
+  <a href="http://linkedin.com/in/rizky-maulana-920343218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCRcovbduuOHShY-fLF0O5lw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/muhammad.feskyrhc/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ivenfesky/">
+  <a href="https://www.instagram.com/ikiwygy_/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/536022513885642762">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Web Badge"/>
