@@ -87,11 +87,6 @@ My Many Obsessions:
 
 #### :medal_military: My Badge
 
-<div>
-  <a href="https://www.cloudskillsboost.google/public_profiles/ce2e27c1-5e7f-42e0-9a5b-2932e69c89e7">
-    <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white" alt="Google Cloud Badge"/>
-  </a>
-</div>
 
 ## 👩🏻‍💻 Tech Stack 
 <div>
