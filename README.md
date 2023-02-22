@@ -23,6 +23,7 @@ My Many Obsessions:
 - Data Mining 
 - SQL
 - Corel Draw, Photoshop, Premiere Pro, and other software design
+- Game
 
 <div id="badges">
   <a href="http://linkedin.com/in/rizky-maulana-920343218">
